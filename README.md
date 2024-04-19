@@ -1,5 +1,3 @@
-# BackgroundColorChanger
-Interactive web app that allows users to change a container's background color using predefined buttons or a custom color picker. Color choices are saved in local storage for persistence.
 
 # Background Color Changer
 The Background Color Changer is a simple, interactive web application that allows users to dynamically change the background color of a container either by selecting a predefined color from multiple buttons or by choosing a custom color through a color picker input. The selected color is also persisted across browser sessions using local storage.
